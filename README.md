@@ -4,5 +4,5 @@ Monday, August 29, 2022
 
 
 Tuesday, August 30, 2022
-Worked on the classes as of right now it has been basic stuff
+Worked on the classes as of right now it has been basic stuff.
 We will start the project soon.
